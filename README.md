@@ -8,7 +8,7 @@ Tools Used
 
 Power BI
 Microsoft Excel
-SQL Server (for data preparation)
+SQL Server 
 Power Query
 
 Dashboard Features
